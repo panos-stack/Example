@@ -10,7 +10,7 @@ namespace WinFormsApp1
         private void button1_Click(object sender, EventArgs e)
         {
             this.BackColor = Color.Blue; // Chnge form color
-            label1.Text = "blue";
+            //label1.Text = "blue";
         }
 
         private void button1_MouseMove(object sender, MouseEventArgs e)
